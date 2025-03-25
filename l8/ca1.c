@@ -17,6 +17,7 @@ int main() {
             break;
 	case 2:
             printf("You selected btech(aiml).\n");
+	    printf("Selected btech aiml");
             break;    
 	case 3:
             printf("You selected btech(ece).\n");
