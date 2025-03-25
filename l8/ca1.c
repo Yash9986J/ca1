@@ -25,3 +25,9 @@ int main() {
 	case 4:
             printf("You selected btech(mech).\n");
             break;
+	default:
+	    printf("Invalid");
+    }
+    return 0;
+}
+
