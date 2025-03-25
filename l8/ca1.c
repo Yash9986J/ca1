@@ -20,6 +20,7 @@ int main() {
             break;    
 	case 3:
             printf("You selected btech(ece).\n");
+	    printf("Selected btech ece");
             break;    
 
 	case 4:
