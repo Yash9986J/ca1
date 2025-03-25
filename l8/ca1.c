@@ -14,6 +14,7 @@ int main() {
     switch (choice) {
         case 1:
             printf("You selected btech(cse).\n");
+	    printf("This is my branch");
             break;
 	case 2:
             printf("You selected btech(aiml).\n");
